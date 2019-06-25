@@ -65,7 +65,6 @@ honeydew
 mandarine
 apricot
 chili pepper
-jujube
 jambul
 papaya
 bartlett pear
